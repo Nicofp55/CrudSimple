@@ -32,7 +32,7 @@ require "header.php";
 			</div>
 		</main>	
 	<footer class="text-center bg-secondary navbar-fixed-bottom">
-		<p>Hecho por Pérez-dono</p>
+		<p>Hecho por Nicolás Pérez</p>
 	</footer>
 </body>
 <script src="js/app.js"></script>
